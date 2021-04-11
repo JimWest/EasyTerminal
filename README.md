@@ -5,7 +5,7 @@ It contains a basic Scene where you need to log into a terminal with a PIN-Code 
 
 Unity3D Version: 2020.3.3f1 (but will also work with older versions).
 
-![](/Doumentation/LoginWindow.PNG)
+![easyterminal](https://user-images.githubusercontent.com/1804137/114318979-b0ebf300-9b0f-11eb-86be-b7b2f7185ec4.gif)
 
 ## Usage
 
